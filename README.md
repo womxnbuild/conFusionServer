@@ -1,6 +1,5 @@
 ## ConFusionServer
-
-Yay! We have hit Week 2 of the Coursera program! 
+ Yay, we have hit Week 2 of the Coursera program! 
 
 Extension of a simple express application using `express-generator` for scaffolding.
 
